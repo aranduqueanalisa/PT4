@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+    justify-content: flex;
+    align-items: center;
+    display: center;
+    left: auto ;
+    right: auto;
+}
+
+.button{
+    font-size: 50px;
+    margin: auto;
+    justify-content: left;
+    align-items: left;
+    text-align: right;
+    
+}
